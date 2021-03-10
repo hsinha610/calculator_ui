@@ -1,4 +1,4 @@
-# login_ui
+# calculator_ui
 
 Calculator UI Clone
 
